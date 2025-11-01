@@ -1,0 +1,19 @@
+body {
+    color: grey;
+    background-color: rgb(43, 42, 42);
+    font-family: "Arial", sans-serif;
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+.block {
+    background-color: rgb(231, 231, 80);
+    color: black;
+    border: 1px solid grey;
+    padding: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+}
