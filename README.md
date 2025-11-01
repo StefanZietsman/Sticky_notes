@@ -10,8 +10,8 @@ The Sticky_notes app lets users add a small visual yellow note box, on a dark gr
 
 A table of contents
 
-Installation of program
-Operating of program
+Installation of program.
+Operating of program.
 
 
 Installation of program
@@ -32,5 +32,6 @@ Once users are registered, using Django management, users can add their own stic
 
 
 A section for credits
+
 
 Thank you to the creators of Django module and Bootstrap.
