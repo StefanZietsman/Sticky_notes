@@ -12,6 +12,7 @@ A table of contents
 
 Installation of program.
 Operating of program.
+Unit testing.
 
 
 Installation of program
@@ -31,7 +32,12 @@ Password: password
 Once users are registered, using Django management, users can add their own sticky_note with manipulation tools by logging on to ‘http://localhost:8000’ with your http browser.
 
 
+Unit testing
+
+To unit test app, run command 'python manage.py test posts' in terminal in the path where 'manage.py' is located.
+
+
 A section for credits
 
-
 Thank you to the creators of Django module and Bootstrap.
+
